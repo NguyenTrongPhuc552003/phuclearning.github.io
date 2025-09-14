@@ -1,0 +1,24 @@
+baseURL = 'https://phuclearning.github.io/'
+languageCode = 'en-us'
+title = 'PhucLearning Blog'
+theme = 'maverick'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
