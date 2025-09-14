@@ -2,7 +2,7 @@
 title: About
 ---
 
-**Maverick** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
+**Nguyen Trong Phuc** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
 
 ### Features
 
